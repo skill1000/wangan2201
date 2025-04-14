@@ -1,0 +1,13 @@
+{
+  LinearLayout;
+  layout_height="fill";
+  layout_width="fill";
+  {
+    ImageView;
+    scaleType="fitXY";
+    id="p_img_4";
+    src="img/img_h_4.jpg";
+    layout_width="match_parent";
+    layout_height="match_parent";
+  };
+};

@@ -1,0 +1,23 @@
+{
+  LinearLayout;
+  gravity="center";
+  orientation="vertical";
+  layout_width="fill";
+  layout_height="fill";
+  backgroundColor="0xFF0095FF";
+  {
+    ImageView;
+    layout_width="50%w";
+    id="图标";
+    layout_height="50%w";
+    src="icon.png";
+  };
+  {
+    TextView;
+    textColor="0xFFFFFFFF";
+    textSize="30dp";
+    layout_marginTop="50dp";
+    id="文字";
+    text="网安2201";
+  };
+};

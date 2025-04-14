@@ -1,0 +1,12 @@
+{
+  LinearLayout;
+  layout_height="fill";
+  layout_width="fill";
+  backgroundColor="0xFF404040";
+  {
+    ListView;
+    id="list";
+    layout_width="match_parent";
+    layout_height="match_parent";
+  };
+};
