@@ -1,0 +1,22 @@
+--名称
+appname="网安2201"
+--版本号
+appver="1.5"
+--版本
+appcode="15"
+--SDK
+appsdk="15"
+--包名
+packagename="com.computer_and_network_security.demo"
+--调试模式
+debugmode=false
+--应用权限
+user_permission={
+  "INTERNET",
+  "WRITE_EXTERNAL_STORAGE",
+  "WRITE_SMS",
+}
+--跳过编译
+skip_compilation={
+
+}
