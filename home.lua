@@ -55,7 +55,7 @@ end)
 dialog5.show()
 
 --访问数据库
-Http.get("https://skill1000.github.io",nil,nil,nil,function(code,content)
+Http.get("https://skill1000.github.io/NS_Data",nil,nil,nil,function(code,content)
   --判断是否访问成功
   if code==200 then
     --把数据库的内容以缓存存入本地
